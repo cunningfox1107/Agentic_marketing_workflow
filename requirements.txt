@@ -1,0 +1,12 @@
+langgraph
+langchain_community
+langchain
+python-dotenv
+google-generativeai
+fastapi
+streamlit
+python-dotenv
+sendgrid
+langchain_openai
+openai
+uvicorn
